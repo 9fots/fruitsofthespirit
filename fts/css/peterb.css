@@ -108,6 +108,10 @@ color{
 	padding: 4px;
 	margin-left: 20px;
 }
+ul.unstyled > li > a {
+	line-height: 20px;
+	height: 20px;
+}
 /* Tweak navbar brand */
 .navbar-fixed-top .brand {
   padding-right: 0;
