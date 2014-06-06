@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  You manifest according to your beliefs regardless
+title:  Beliefs Regardless
 date:   2014-06-06
 categories: Belief
 permalink: manifest-according-to-belief.html
