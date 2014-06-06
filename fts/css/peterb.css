@@ -860,7 +860,11 @@ a#pb4:hover {
     word-wrap: break-word;
     word-break: break-all;
   }
-
+.img-polaroid {
+	margin-left: -10px;
+	margin-right: auto;
+	margin-top: 20px;
+}
   /* Modal example */
   .modal-example .modal {
     position: relative;
