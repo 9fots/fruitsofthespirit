@@ -5,7 +5,7 @@ date:   2014-06-06
 categories: Belief
 permalink: manifest-according-to-belief.html
 ---
-I struggled with pricniples of Law of Attraction and The Secret mainly because I always associated believing with being healed of my severe hearing loss.
+I struggled with principles of Law of Attraction and The Secret mainly because I always associated believing with being healed of my severe hearing loss.
 
 Also because of my belief system was rooted in Law itself, a stumbling block of huge proportions.
 
