@@ -784,20 +784,28 @@ a#pb4:hover {
 .bockenthien {
 	border-radius:8px;
 	/*background-color: #fbe2b9;*/
-	padding: 0 20px 20px;
+	padding: 0 4px 4px;
 	margin-bottom: 20px;
 }
   /* Change up some type stuff */
-  h2 {
-    margin-top: 27px;
-  }
-  h2 small {
-    display: block;
-    line-height: 18px;
-  }
-  h3 {
+h1, h2, h3, h4, h5, h6 {
+line-height: 1;
+	margin-top: 12px;
+	margin-bottom: 6px;
+}
+  h1 {font-size: 30px;
+	margin-top: 0;
+}
+  h2 {font-size: 26px;}
+  h3 {font-size: 23px;}
+  h4 {font-size: 20px;}
+  h5 {font-size: 18px;}
+  h6 {font-size: 16px;}
+  
+  h2 small {display: block; line-height: 18px;}
+  /*h3 {
     margin-top: 18px;
-  }
+  }*/
 
   /* icons */
   .marketing .bs-icon {
@@ -864,6 +872,15 @@ a#pb4:hover {
 	margin-left: -10px;
 	margin-right: auto;
 	margin-top: 20px;
+}
+.navbar-fixed-top {
+	margin-left: -40px;
+	margin-right: -40px;
+	padding: 0 0 0 14px;
+}
+a.dropdown-toggle {
+	padding-left: 25px;
+	font-size: 22px;
 }
   /* Modal example */
   .modal-example .modal {
