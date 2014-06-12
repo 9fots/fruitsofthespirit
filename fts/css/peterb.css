@@ -11,20 +11,18 @@ font-family: 'Architects Daughter', cursive;
 /*font-family: 'Ruda', sans-serif;
 font-family: 'Gabriela', serif;*/
 html {
-	background: #ceccd6; /*url(../images/presence-of-the-past.jpg) no-repeat;*/ 
+	background: #893b37;  
 }
 /* Body and structure*/
 body {
   position: relative;
   padding-top: 60px;
   font-family: 'Gabriela', serif;
+	color: #e9ddcb;
 }
-body { 
-	/*background-image:
-    linear-gradient(
-      #8cc3e5, #587c92
-    );*/
-}
+/*body {
+	background: url(../images/four-corners.jpg) no-repeat;
+}*/
 body.fots{
 	font: 16px/1.5 'Handlee', cursive;
 }
@@ -48,6 +46,10 @@ body.fots a {
       #fbe2b9, #ebd472
     );
 }*/
+/*.bockenthien {
+	background-color: #893b37;
+	padding: 20px;
+}*/
 /*this blue{
 	background-color: #8cc3e5;
 }*/
@@ -59,9 +61,15 @@ body.fots a {
     );*/
     background-image:
     linear-gradient(
-      #8cc3e5, #587c92
+      #695d5d, #49363d
     );
     
+}
+grade1{
+	background-color: #49363d;
+}
+grade 2{
+	background-color: #695d5d;
 }
 .nav-list > .active > a,
 .nav-list > .active > a:hover {
@@ -89,7 +97,7 @@ color{
 .l{margin-left: 11em;}
 
 .img-polaroid {
-  background-color: #fff;
+  background-color: #f3c0b2;
   border: 1px solid #ccc;
   border: 1px solid rgba(0, 0, 0, 0.2);
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
@@ -99,7 +107,7 @@ color{
 	margin-left: 20px;
 }
 .img-book {
-  background-color: #5b5b5b;
+  background-color: #f3c0b2;
   border: 1px solid #ccc;
   border: 1px solid rgba(0, 0, 0, 0.2);
   -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
@@ -773,8 +781,21 @@ a#pb4:hover {
 .center h2 {
 	margin-bottom: -2px;
 }
-/* Responsive Docs
--------------------------------------------------- */
+.nav-list > .active > a,
+.nav-list > .active > a:hover {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
+  background-color: #863a37;
+}
+.nav-pills > .active > a,
+.nav-pills > .active > a:hover {
+  color: #ffffff;
+  background-color: #863a37;
+}dro
+.navbar .navbar-link:hover {
+  color: #f1bfb3;
+}
+/* Responsive */
 @media (max-width: 480px) {
 
   /* Reduce padding above jumbotron */
@@ -1020,5 +1041,5 @@ a.dropdown-toggle {
 	color: #fff;
 }
 .footer a {
-	color: #cd5001;
+	color: #fbb33e;
 }
