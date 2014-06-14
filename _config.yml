@@ -4,3 +4,4 @@ pygments: true
 permalink: title
 baseurl: /
 timezone: America/Denver
+exclude: _FIX.html
