@@ -9,7 +9,7 @@ Since I published [Fruits of the Spirit][leanpub] I've been able to walk the tal
 
 Here's one example.
 
-My son received an iPad for his birthday. The parental controls are sneaky, not straight forward as I thought. As a result he wound up with $116 of "in-app" purchases on my credit card.
+My son received an iPad for his birthday. The parental controls are not straight forward as I thought. As a result he wound up with $116 of "in-app" purchases on my credit card.
 
 I wasn't upset in the least. I just treated it as a cue to manifest Love. I explained to him that it was partly my fault that he was able to do it. Did he realize what was happening? I didn't because iTunes doesn't send notification nor receipt until a day or 2 after any transaction.
 
