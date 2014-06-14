@@ -19,7 +19,7 @@ The reason most don't accept and embrace their Self is because they cannot belie
 
 There's no Love in Revelations. Go ahead and believe if it you want. There's no requirement made of you in that horrible book. But I find it absolutely despicable to do as most Christians do: sit back and watch the show as if it were some kind of "reality" TV show that we have no control over.
 
-The second coming of Christ is happening right now. Christ consciousness is happening everywhere and if you're looking to read about it in Mammon News, you're fucking out of luck. And if you're looking for the anti-christ you need to look inside your heart first and ask "Am I following the letter of the Law? Or am I following my heart with Love for my Self and my neighbor?"
+The second coming of Christ is happening right now. Christ consciousness is happening everywhere and if you're looking to read about it in Mammon News, you're out of luck. And if you're looking for the anti-christ you need to look inside your heart first and ask "Am I following the letter of the Law? Or am I following my heart with Love for my Self and my neighbor?"
 
 This right here and now never was, is, nor will be about right or wrong, morals, laws, nor tradition. It was, is, and always will be about Love.
 
