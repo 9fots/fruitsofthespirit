@@ -23,7 +23,7 @@ Wow! Who knew, right? Here's what I told him.
 
 "I don't know!" he sobbed angrily.
 
-"I can tell you why and keep in mind that I've gone negative many, many times until I got tired of it. So remember this: being negative and destructive 'my life is over' is the easiest thing in the world to do. It's called `judgment` which I define as 'a negative prediction of the future based on the past that has nothing to do with this present moment'."
+"I can tell you why and keep in mind that I've gone negative many, many times until I got tired of it. So remember this: being negative and destructive 'my life is over' is the easiest thing in the world to do. It's called `judgment` which I define as `a negative prediction of the future based on the past that has nothing to do with this present moment`."
 
 "In order to go positive you have to let go of the negative, so let's both breathe in deeply and let go of the negative energy as we breathe out."
 
