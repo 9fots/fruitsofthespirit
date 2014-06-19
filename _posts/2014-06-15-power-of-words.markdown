@@ -4,6 +4,8 @@ title:  Power of Words
 date:   2014-06-15
 categories: Belief
 permalink: power-of-words.html
+slug: Words arise out of thoughts, which arise out of beliefs. Beliefs are synthetically forged in the mind (doctrine) or organically via your heart.
+keys: beliefs, words, fruits of the spirit
 ---
 Words arise out of thoughts, which arise out of beliefs. Beliefs are synthetically forged in the mind (doctrine) or organically via your heart.
 
@@ -12,7 +14,7 @@ Whenever you speak from your heart your words do not return to you empty (Isaiah
 Too often Christians start praying willy nilly for everything they can and are sore when they're prayers are not answered. They begin to doubt themselves, and rationalize away why this could be. They are moral, righteous people who profess loving Jesus openly and publicly. They have started down the path of merit, competitiveness and reward.
 
 Surely the Lord will reward them for their good works.
-s
+
 The upshot: your belief has devolved from believing as a child to rationalizing like a theologian. This thought process is thoroughly institutionalized in the modern conservative movement; these are the roots of `legalism`, the strict adherence to the letter of the law.
 
 The spirit of the law is ignored, marginalized as irrelevant, impertinent, and needless to the concepts of *salvation* which it turns out is nothing more than <a href="http://9fruitsofthespirit.com/mammon-institutionalized.html">serving mammon.</a>
