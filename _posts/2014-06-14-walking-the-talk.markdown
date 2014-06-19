@@ -4,7 +4,7 @@ title:  Walking the Talk
 date:   2014-06-14
 categories: Belief
 permalink: walking-the-talk.html
-slug: Now comes the tricky part of going positive: we never know what shape or form it will manifest as, and we don't know when it will. Nobody does. It requires that we forgive our self, and then be patient and mindful.
+slug: The tricky part of going positive is we never know what shape or form it will manifest as, and we don't know when it will. Nobody does. It requires that we forgive our self, and then be patient and mindful.
 keys: negative, judgment, faith, positive
 ---
 Since I published [Fruits of the Spirit][leanpub] I've been able to walk the talk. I'm no longer focused on writing; I'm focused on Loving every person and situation I come in contact with.
