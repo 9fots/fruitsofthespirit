@@ -4,13 +4,15 @@ title:  Beliefs Regardless
 date:   2014-06-06
 categories: Belief
 permalink: manifest-according-to-belief.html
+slug: Each day we manifest according to our beliefs, regardless. We're either putting out positive beliefs about our Self or we're resorting to the same old, worn-out belief system that entrapped us.
+keys: manifest, beliefs, accept Self
 ---
 I struggled with principles of Law of Attraction and The Secret mainly because I always associated believing with being healed of my severe hearing loss.
 
-Also because of my belief system was rooted in Law itself, a stumbling block of huge proportions.
+Also because my belief system was rooted in Law itself, a stumbling block of huge proportions.
 
 It wasn't until I wrote [Fruits of the Spirit][leanpub] that I was able to just believe in my Self that I was able to rest and trust in Source for everything.
-<hr />
+
 Each day we manifest according to our beliefs, regardless. We're either putting out positive beliefs about our Self or we're resorting to the same old, worn-out belief system that entrapped us.
 
 Believing in the wrong things about your Self reduces to *lack*, a sense of *not good enough* (merit) that are based solely on Law, and not Love.
