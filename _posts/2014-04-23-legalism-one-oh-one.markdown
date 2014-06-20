@@ -7,7 +7,6 @@ permalink: mammon-institutionalized.html
 slug: 95% of us serve Mammon because it has been systemically institutionalized into our every day life. It is the sole metric by which every aspect of `modern` life functions. You either serve Life, Love, or you serve destruction.
 keys: mammon, money, non-renewable resources, hemp, marijuana
 ---
-
 95% of us serve Mammon because it has been systemically institutionalized into our every day life. It is the sole metric by which every aspect of `modern` life functions.
 
 Nature's resources are not thought of as a transaction, but rather a free resource to destroy. Nature is the basis for ALL economic activity on Earth. Everything you interact with came from the Earth.
