@@ -4,6 +4,8 @@ title:  Beliefs About Beliefs
 date:   2014-05-23
 category: beliefs
 permalink: beliefs.html
+slug: Beliefs that threaten someone's long held beliefs and or sense of well-being are the hardest to break, and the easiest to manipulate.
+keys: belief, beliefs
 ---
 Fascinating [overview about beliefs][beliefs]. The article itself is practices the deception it is writing about.
 

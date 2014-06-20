@@ -4,6 +4,8 @@ title:  Mammon Institutionalized
 date:   2014-04-23
 categories: legalism
 permalink: mammon-institutionalized.html
+slug: 95% of us serve Mammon because it has been systemically institutionalized into our every day life. It is the sole metric by which every aspect of `modern` life functions. You either serve Life, Love, or you serve destruction.
+keys: mammon, money, non-renewable resources, hemp, marijuana
 ---
 
 95% of us serve Mammon because it has been systemically institutionalized into our every day life. It is the sole metric by which every aspect of `modern` life functions.
