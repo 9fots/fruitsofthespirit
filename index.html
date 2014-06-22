@@ -74,6 +74,11 @@
 
       <p class="lead">When you’re fulfilling your purpose you are effortlessly
       manifesting fruits of the spirit.</p>
+
+      <h3>Recent blog posts</h3>
+        {% for post in site.posts %}
+          <a href="{{ post.url }}">{{ post.title }}</a> | 
+        {% endfor %}
         <hr /> 
       <h4><a href="https://leanpub.com/fruitsofthespirit" target="_blank">Fruits Of The Spirit is available here in PDF, EPUB and MOBI formats.</a></h4>
 
