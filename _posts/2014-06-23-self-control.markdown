@@ -4,7 +4,7 @@ title:  Self Control
 date:   2014-06-23
 categories: fruits
 permalink: self-control.html
-slug: Being disciplined means being objective with your ego self and higher Self so that your higher Self is determining your thought pattersn, course of action and thus what you manifest. Thus you overcome the presence of the past.
+slug: Being disciplined means being objective with your ego self and higher Self so that your higher Self is determining your thought patterns, course of action and thus what you manifest. Thus you overcome the presence of the past.
 keys: self control, discipline, irrevocable, loss of innocence, overcome the presence of the past
 ---
 The last fruit of the spirit is `self control`. What it means is discipline your self to obey your heart and not that pesky clamoring of the ego.
