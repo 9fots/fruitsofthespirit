@@ -9,9 +9,9 @@ keys: self control, discipline, irrevocable, loss of innocence, overcome the pre
 ---
 The last fruit of the spirit is `self control`. What it means is discipline your self to obey your heart and not that pesky clamoring of the ego.
 
-But we usually associate self control with sexual urges, but when you think about it, controlling your sexual urges is a **lot** easier than the daily battle you might be having with your ego and not knowing about it.
+We usually associate self control with sexual urges, but when you think about it, controlling your sexual urges is a **lot** easier than the daily battle you might be having with your ego and not knowing about it.
 
-Self control means you have decided that your heart is in charge, that you are going to focus on manifesting who you truly are. The gifts you were born with are truly unique, and they are always in your heart. They are irrevocable - no evil, absolutely **nothing** can remove those gifts, your identity from your heart.
+**Self control means you have decided that your heart is in charge**, that you are going to focus on manifesting who you truly are. The gifts you were born with are truly unique, and they are always in your heart. They are irrevocable - no evil, absolutely **nothing** can remove those gifts, your identity from your heart.
 
 You were born that way. As you grew you became more aware of your awesomeness, and then if you're like most of us, you `lost your innocence`, you experienced some kind of awareness that you negatively interpreted as betrayal. Your beliefs were shattered and you've been picking up the pieces ever since.
 
