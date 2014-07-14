@@ -7,9 +7,10 @@ font-family: 'Shadows Into Light', cursive;
 font-family: 'Handlee', cursive;
 font-family: 'Architects Daughter', cursive;
 */
-@import url(http://fonts.googleapis.com/css?family=Gabriela|Ruda:400,700,900);
+/*@import url(http://fonts.googleapis.com/css?family=Gabriela|Ruda:400,700,900);*/
 /*font-family: 'Ruda', sans-serif;
 font-family: 'Gabriela', serif;*/
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic);
 html {
 	background: #893b37;  
 }
@@ -17,7 +18,7 @@ html {
 body {
   position: relative;
   padding-top: 60px;
-  font-family: 'Gabriela', serif;
+  font-family: 'Droid Serif', serif;
 	color: #e9ddcb;
 }
 /*body {
