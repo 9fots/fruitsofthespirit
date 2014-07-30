@@ -7,7 +7,7 @@ permalink: love-endures-forever.html
 slug: The Church, the News, the constant level of bullshit promulgated in American Culture is a clusterfucking mindfuck and a soulfuck. But only if you let it be.
 keys: Love, power of Love, Love your neighbor as your Self
 ---
-I have a lot to say about [this post][post], not about what you wrote, but what you quote.
+I have a lot to say about [this post][robynfb], not about what you wrote, but what you quote.
 
 First, it's okay to feel overwhelmed, but it's not okay to let mainstream media `inform` you with their pro-violence propaganda because peace does not sell. Solutions do not sell. If it bleeds it leads.
 
@@ -25,4 +25,4 @@ On the other hand, Love is not loud and clamorous. Love is not self-seeking. Lov
 
 All I can do is Love each person that enters my path as my Self. I have to be aware of opportunities to Love them as I Love my Self.
 
-[post]: [https://www.facebook.com/that.robyn/posts/10153037768024502]
+[robynfb]: https://www.facebook.com/that.robyn/posts/10153037768024502
