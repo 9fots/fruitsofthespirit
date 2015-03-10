@@ -9,13 +9,13 @@ keys: Let it go
 ---
 BREATHING EASY
 
-expanding my awareness
+	expanding my awareness
 
-to my infinite memory
+	to my infinite memory
 
-perceiving my old triggers
+	perceiving my old triggers
 
-in the last of breathing
+	in the last of breathing
 
 		gasping
 
@@ -26,19 +26,19 @@ in the last of breathing
 		all over and done fucking my soul
 
 
-I'm breathing easy
+	I'm breathing easy
 
-		now that I let it all go
+			now that I let it all go
 
-		to focus on thhis holy moment
+			to focus on thhis holy moment
 
-			to manifest every single one of my hopes
+				to manifest every single one of my hopes
 
-			manifest only this moment
+				manifest only this moment
 
-			Don't let my focus wander to tomorrow
+				Don't let my focus wander to tomorrow
 
-			Stay right here right now
+				Stay right here right now
 
 
 &copy; 2015 Peter Bockenthien
