@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Breathing Easy
-date:   2014-07-30
+date:   2015-03-10
 categories: letting go
-permalink:breathing-easy.html
+permalink: breathing-easy.html
 slug: You've got to let everything go and trust the Universe with every aspect of your life.
 keys: Let it go
 ---
