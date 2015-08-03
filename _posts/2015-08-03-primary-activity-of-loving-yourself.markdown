@@ -2,7 +2,7 @@
 layout: post
 title:  Awakening Hearts Do Greater Works
 date:   2015-08-03
-categories: Love
+category: Love
 permalink: primary-activity-of-loving-yourself.html
 slug: You are the source of your experience. Allow your Spirit to regenerate your heart.
 ---
