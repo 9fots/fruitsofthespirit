@@ -2,7 +2,7 @@
 layout: post
 title:  Manifest Love
 date:   2014-06-14
-categories: Belief
+category: Belief
 permalink: manifest-love.html
 slug: The reason most don't accept and embrace their Self is because they cannot believe that each of us really are powerful, divine beings. For quite some time now people are waking up to their Divinity which is rooted not in Law, legalism, morality or other social, political constructs, but firmly rooted in the Spirit of the Law - Love.
 keys: beliefs self-reinforce,

@@ -2,7 +2,7 @@
 layout: post
 title: Love Endures Forever
 date: 2014-07-30
-categories: love
+category: Love
 permalink: love-endures-forever.html
 slug: The Church, the News, the constant level of bullshit promulgated in American Culture is a clusterfucking mindfuck and a soulfuck. But only if you let it be.
 keys: Love, power of Love, Love your neighbor as your Self

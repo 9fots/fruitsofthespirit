@@ -2,7 +2,7 @@
 layout: post
 title:  Burning Down The House
 date:   2014-05-27
-categories: mammon
+category: Mammon
 permalink: burning-down-the-house.html
 slug: In order for Jesus to throw money changers out of today's church He would have to burn down the temple and level entire cities.
 keys: get out of the comfort zone

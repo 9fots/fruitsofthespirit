@@ -2,7 +2,7 @@
 layout: post
 title:  Walking the Talk
 date:   2014-06-14
-categories: Belief
+category: Belief
 permalink: walking-the-talk.html
 slug: The tricky part of going positive is we never know what shape or form it will manifest as, and we don't know when it will. Nobody does. It requires that we forgive our self, and then be patient and mindful.
 keys: negative, judgment, faith, positive

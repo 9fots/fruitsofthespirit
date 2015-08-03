@@ -2,7 +2,7 @@
 layout: post
 title:  Beliefs Self-Reinforce
 date:   2014-06-22
-categories: beliefs
+category: Beliefs
 permalink: beliefs-self-reinforce.html
 slug: Beliefs are self-reinforcing. This means that whatever you believe reinforces that belief, blinding you to other ways. Regardless of your religion, its beliefs reinforce themselves.
 keys: beliefs, beliefs self-reinforce, illusions, truths

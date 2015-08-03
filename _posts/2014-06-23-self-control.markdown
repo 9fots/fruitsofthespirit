@@ -2,7 +2,7 @@
 layout: post
 title:  Self Control
 date:   2014-06-23
-categories: fruits
+category: Fruits
 permalink: self-control.html
 slug: Being disciplined means being objective with your ego self and higher Self so that your higher Self is determining your thought patterns, course of action and thus what you manifest. Thus you overcome the presence of the past.
 keys: self control, discipline, irrevocable, loss of innocence, overcome the presence of the past

@@ -2,7 +2,7 @@
 layout: post
 title:  Beliefs Regardless
 date:   2014-06-06
-categories: Belief
+category: Belief
 permalink: manifest-according-to-belief.html
 slug: Each day we manifest according to our beliefs, regardless. We're either putting out positive beliefs about our Self or we're resorting to the same old, worn-out belief system that entrapped us.
 keys: manifest, beliefs, accept Self

@@ -2,7 +2,7 @@
 layout: post
 title:  Overcoming the Presence of the Past
 date:   2014-05-28
-categories: Love
+category: Love
 permalink: overcoming-the-presence-of-the-past.html
 slug: Love forgives and heals all, even that from all of your yesterdays. Thus Love will overcome the presence of the past, making all things new.
 keys: love forgives, love heals, love makes all things new, overcome the presence of the past.

@@ -2,7 +2,7 @@
 layout: post
 title:  Power of Words
 date:   2014-06-15
-categories: Belief
+category: Belief
 permalink: power-of-words.html
 slug: Words arise out of thoughts, which arise out of beliefs. Beliefs are synthetically forged in the mind (doctrine) or organically via your heart.
 keys: beliefs, words, fruits of the spirit
