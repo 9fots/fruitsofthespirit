@@ -3,9 +3,9 @@ layout: default
 ---
 <div class="span8">
 	<h2>{{ page.title }}</h2>
-		<p class="meta">{{ page.date | date_to_string }}</p>
+		<ul class="cat"><li>{{ page.date | date_to_string }}</li>  <li>{{ page.category }}</li></ul>
 
 	<div class="post">
-	{{ content }}
-	</div>
+		{{ content }}
+		</div>
 </div>
